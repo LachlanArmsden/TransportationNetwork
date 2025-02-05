@@ -1,0 +1,45 @@
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/bin/Debug/net6.0/working_assessment3
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/bin/Debug/net6.0/working_assessment3.deps.json
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/bin/Debug/net6.0/working_assessment3.runtimeconfig.json
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/bin/Debug/net6.0/working_assessment3.dll
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/bin/Debug/net6.0/working_assessment3.pdb
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.csproj.AssemblyReference.cache
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.AssemblyInfoInputs.cache
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.AssemblyInfo.cs
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.csproj.CoreCompileInputs.cache
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.dll
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/refint/working_assessment3.dll
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.pdb
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.genruntimeconfig.cache
+/Users/lachlanarmsden/Desktop/QUT2024/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/ref/working_assessment3.dll
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/bin/Debug/net6.0/working_assessment3
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/bin/Debug/net6.0/working_assessment3.deps.json
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/bin/Debug/net6.0/working_assessment3.runtimeconfig.json
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/bin/Debug/net6.0/working_assessment3.dll
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/bin/Debug/net6.0/working_assessment3.pdb
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.csproj.AssemblyReference.cache
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.AssemblyInfoInputs.cache
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.AssemblyInfo.cs
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.csproj.CoreCompileInputs.cache
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.dll
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/refint/working_assessment3.dll
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.pdb
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/working_assessment3.genruntimeconfig.cache
+/Users/lachlanarmsden/Desktop/QUT2024/Sem 1/CAB301/Assessment 3/working_assessment3/obj/Debug/net6.0/ref/working_assessment3.dll
+/Users/lachlanarmsden/Desktop/working_assessment3/bin/Debug/net6.0/working_assessment3
+/Users/lachlanarmsden/Desktop/working_assessment3/bin/Debug/net6.0/working_assessment3.deps.json
+/Users/lachlanarmsden/Desktop/working_assessment3/bin/Debug/net6.0/working_assessment3.runtimeconfig.json
+/Users/lachlanarmsden/Desktop/working_assessment3/bin/Debug/net6.0/working_assessment3.dll
+/Users/lachlanarmsden/Desktop/working_assessment3/bin/Debug/net6.0/working_assessment3.pdb
+/Users/lachlanarmsden/Desktop/working_assessment3/obj/Debug/net6.0/working_assessment3.csproj.AssemblyReference.cache
+/Users/lachlanarmsden/Desktop/working_assessment3/obj/Debug/net6.0/working_assessment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachlanarmsden/Desktop/working_assessment3/obj/Debug/net6.0/working_assessment3.AssemblyInfoInputs.cache
+/Users/lachlanarmsden/Desktop/working_assessment3/obj/Debug/net6.0/working_assessment3.AssemblyInfo.cs
+/Users/lachlanarmsden/Desktop/working_assessment3/obj/Debug/net6.0/working_assessment3.csproj.CoreCompileInputs.cache
+/Users/lachlanarmsden/Desktop/working_assessment3/obj/Debug/net6.0/working_assessment3.dll
+/Users/lachlanarmsden/Desktop/working_assessment3/obj/Debug/net6.0/refint/working_assessment3.dll
+/Users/lachlanarmsden/Desktop/working_assessment3/obj/Debug/net6.0/working_assessment3.pdb
+/Users/lachlanarmsden/Desktop/working_assessment3/obj/Debug/net6.0/working_assessment3.genruntimeconfig.cache
+/Users/lachlanarmsden/Desktop/working_assessment3/obj/Debug/net6.0/ref/working_assessment3.dll
